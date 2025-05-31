@@ -1,5 +1,8 @@
 # Journal Paper
 ## Large-Language Model
+\*\*\*
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30.
+
 Zhou, Z., Ning, X., Hong, K., Fu, T., Xu, J., Li, S., Lou, Y., Wang, L., Yuan, Z., & Li, X. (2024). A survey on efficient inference for large language models. arXiv preprint arXiv:2404.14294. 
 
 ### NLP
@@ -7,7 +10,11 @@ Zhou, Z., Ning, X., Hong, K., Fu, T., Xu, J., Li, S., Lou, Y., Wang, L., Yuan, Z
 ### Fine-tuning
 Barnett, S., Brannelly, Z., Kurniawan, S., & Wong, S. (2024). Fine-tuning or fine-failing? debunking performance myths in large language models. arXiv preprint arXiv:2406.11201. 
 
+Wang, Y., Si, S., Li, D., Lukasik, M., Yu, F., Hsieh, C.-J., Dhillon, I. S., & Kumar, S. (2022). Two-stage LLM fine-tuning with less specialization and more generalization. arXiv preprint arXiv:2211.00635. 
+
+
 ### RAG
+Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., ... & Wang, H. (2023). Retrieval-augmented generation for large language models: A survey. arXiv preprint arXiv:2312.10997, 2(1).
 ### Compound AI System / Multi-AI agents
 
 ## Spatial Analysis
@@ -41,10 +48,17 @@ Li, D., Zhao, Y., Wang, Z., Jung, C., & Zhang, Z. (2024). Large Language Model-D
 
 Zhang, Y., Wei, C., Wu, S., He, Z., & Yu, W. (2023). Geogpt: Understanding and processing geospatial tasks through an autonomous gpt. arXiv preprint arXiv:2307.07930. 
 
+#Climate change science retrieval system ---
+Vaghefi, S. A., Stammbach, D., Muccione, V., Bingler, J., Ni, J., Kraus, M., Allen, S., Colesanti-Senni, C., Wekhof, T., Schimanski, T., Gostlow, G., Yu, T., Wang, Q., Webersinke, N., Huggel, C., & Leippold, M. (2023). ChatClimate: Grounding conversational AI in climate science. Communications Earth & Environment, 4(1), 480. https://doi.org/10.1038/s43247-023-01084-x 
+
+
 ## Sustainability Reports
 ### Standard Evolution
 \*\*\*
 Lee, C.-C., Kuo, S.-Y., Lee, S.-Y., Hsu, H.-H., Chou, K.-T., Mo, T.-L., Pien, C.-P., Kuo, Y.-T., Chang, E.-Y., Huang, K.-C., Hsu, L.-J., Chao, Y.-M., Hsiao, H.-T., & Chang, M.-C. (2024). Evaluating corporate climate risk assessment results: Lessons learned from Taiwan’s top 100 enterprises. Climate Risk Management, 46, 100668. https://doi.org/https://doi.org/10.1016/j.crm.2024.100668 
+
+\*\*\*
+Lee, C. C., Kuo, S. Y., Hsu, H. H., Mo, T. L., Chang, E. Y., & Huang, K. C. (2022). How does the research community contribute to corporate climate‐related risk disclosures? The gap between ideals and reality. Corporate Social Responsibility and Environmental Management, 30(2), 927-940. https://doi.org/10.1002/csr.2397 
 
 Montiel, I., & Delgado-Ceballos, J. (2014). Defining and Measuring Corporate Sustainability: Are We There Yet? Organization & Environment, 27(2), 113-139. https://doi.org/10.1177/1086026614526413 
 
@@ -72,11 +86,14 @@ Verma, N. (2025). Sustainability reporting in India: leveraging Geographic Infor
 
 
 ### Create new contents by NLG or LLM approaches
+#### NLP
+#### Fine-tuning
+Suzuki, M., Sakaji, H., Hirano, M., & Izumi, K. (2023). Constructing and analyzing domain-specific language model for financial text mining. Information Processing & Management, 60(2), 103194. https://doi.org/https://doi.org/10.1016/j.ipm.2022.103194 
 
 
 
 ### Evaluation by NLP/NLG or LLM approaches
-#### NLP and Evaluation
+#### NLP apporoaches
 \*\*\* 
 Ong, K., Mao, R., Satapathy, R., Cambria, E., Sulaeman, J., & Mengaldo, G. (2024). Explainable Natural Language Processing for Corporate Sustainability Analysis. arXiv preprint arXiv:2407.17487. 
 
@@ -86,6 +103,12 @@ Usmanova, A., & Usbeck, R. (2024). Structuring Sustainability Reports for Enviro
 
 Lai, Y.-W., & Chen, M.-Y. (2024). Using Natural Language Processing With Explainable AI Approach to Construct a Human-Centric Consumer Application for Financial Climate Disclosures. IEEE Transactions on Consumer Electronics, 1-1. https://doi.org/10.1109/tce.2023.3326953 
 
+張立科. (2022). 依據氣候變遷領域自適應預訓練的深度語言文本分析模型 [國立中興大學]. https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NCHU5507011%22.&searchmode=basic
+
+
+#### Prompt engineering
+Ni, J., Bingler, J., colesanti Senni, C., Kraus, M., Gostlow, G., Schimanski, T., Stammbach, D., Ashraf Vaghefi, S., Wang, Q., Webersinke, N., Wekhof, T., Yu, T., & Leippold, M. (2023). CHATREPORT: Democratizing Sustainability Disclosure Analysis through LLM-based Tools. 
+
 
 #### Fine-tuning
 \*\*\*
@@ -93,9 +116,14 @@ Van Nooten, J., & Kosar, A. (2024). Advancing CSR Theme and Topic Classification
 
 Kölbel, J. F., Leippold, M., Rillaerts, J., & Wang, Q. (2024). Ask BERT: How Regulatory Disclosure of Transition and Physical Climate Risks Affects the CDS Term Structure*. Journal of Financial Econometrics, 22(1), 30-69. https://doi.org/10.1093/jjfinec/nbac027 
 
+Mishra, S. (2023, November). ESG Impact Type Classification: Leveraging Strategic Prompt Engineering and LLM Fine-Tuning. In C.-C. Chen, H.-H. Huang, H. Takamura, H.-H. Chen, H. Sakaji, & K. Izumi, Proceedings of the Sixth Workshop on Financial Technology and Natural Language Processing Bali, Indonesia.
+
 \*\*\*
 <!-- BERT -->
 Ferjančič, U., Ichev, R., Lončarski, I., Montariol, S., Pelicon, A., Pollak, S., Sitar Šuštar, K., Toman, A., Valentinčič, A., & Žnidaršič, M. (2024). Textual analysis of corporate sustainability reporting and corporate ESG scores. International Review of Financial Analysis, 96, 103669. https://doi.org/https://doi.org/10.1016/j.irfa.2024.103669 
+
+Bingler, J. A., Kraus, M., Leippold, M., & Webersinke, N. (2022). Cheap talk and cherry-picking: What ClimateBert has to say on corporate climate risk disclosures. Finance Research Letters, 47, 102776. https://doi.org/https://doi.org/10.1016/j.frl.2022.102776 
+
 
 
 #### RAG / Compound AI System / Multi-AI agents
@@ -115,13 +143,46 @@ Smith, M. J. D., Goodchild, M. F., & Longley, P. a. (2024). Geospatial Analysis 
 ## Sustainbility Reports
 王嘉緯, 李宜樺, 張森林, 曾于哲, 楊曉文, & 遲淑華. (2024). 永續發展相關規範與實務(113年版) (王嘉緯, 李宜樺, 張森林, 曾于哲, 楊曉文, & 遲淑華, Eds.). 財團法人中華民國證券暨期貨市場發展基金會. 
 
+證券櫃檯買賣中心. (2024). 如何準備及編制永續報告書手冊. https://dsp.tpex.org.tw/storage/csr/%E5%A6%82%E4%BD%95%E6%BA%96%E5%82%99%E7%B7%A8%E8%A3%BD%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf
+
+### GRI Standards
+de Villiers, C., La Torre, M., & Molinari, M. (2022). The Global Reporting Initiative’s (GRI) past, present and future: critical reflections and a research agenda on sustainability reporting (standard-setting). Pacific Accounting Review, 34(5), 728-747. https://doi.org/10.1108/par-02-2022-0034 
+
+### SASB
+
+### TCFD
+TCFD. (2023). About. Retrieved 05.21 from https://www.fsb-tcfd.org/about/
+
+Fijałkowska, J., & Hadro, D. (2022). Risk Information in Non-Financial Disclosure. Risks, 10(1).
+
+TCFD. (2021). 指標、目標和轉型計劃指南. D. Task Force on Climate-related Financial. https://assets.bbhub.io/company/sites/60/2022/03/TCFD-Guidance_on_Metrics_Targets_and_Transition_Plans_%E4%B8%AD%E8%AF%91%E7%89%88.pdf
+
+Task Force on Climate-related Financial, D. (2017). Final Report: Recommendations of the Task Force on Climate-related Financial Disclosures. 1\-74\. https://assets.bbhub.io/company/sites/60/2021/10/FINAL-2017-TCFD-Report.pdf\ 
+
+
+### TNFD
+TNFD. (2023). Recommendations of the Taskforce on Nature-related Financial Disclosures. https://tnfd.global/wp-content/uploads/2023/08/Recommendations-of-the-Taskforce-on-Nature-related-Financial-Disclosures.pdf?v=1734112245
+
+### IFRS
+International Organization of Securities, C. (2023). IOSCO’s endorsement of the ISSB Standards IFRS S1 and IFRS S2: A major step towards creating effective sustainable capital markets. https://www.iosco.org/news/pdf/IOSCONEWS703-Endorsement-Slides.pdf
+
+IFRS. (2023). Materiality Finder. IFRS. Retrieved 10.25 from https://sasb.ifrs.org/standards/materiality-finder/find/
+
+IFRS. (2023). IFRS S2 Climate-related Disclosures. https://www.ifrs.org/issued-standards/ifrs-sustainability-standards-navigator/ifrs-s2-climate-related-disclosures/#standard
+
+
+### 永續報告書評估指標
 Russell, F. (2024). FTSE Russell ESG Data Model Methodology. https://www.lseg.com/content/dam/ftse-russell/en_us/documents/policy-documents/ftse-russell-esg-data-model-methodology.pdf
 
 Global, S. P. (2024). Corporate Sustainability Assessment (CSA) Handbook 2024. https://portal.s1.spglobal.com/survey/documents/CSA_Handbook.pdf
 
 Foundation, I. (2024). International Sustainability Standards Board. https://www.ifrs.org/groups/international-sustainability-standards-board/ 
 
-證券櫃檯買賣中心. (2024). 如何準備及編制永續報告書手冊. https://dsp.tpex.org.tw/storage/csr/%E5%A6%82%E4%BD%95%E6%BA%96%E5%82%99%E7%B7%A8%E8%A3%BD%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf
+### Climate change related reports
+IPCC. (2023). 2023: Summary for Policymakers. Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to
+the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, Issue. https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf
+
+
 
 
 
@@ -149,16 +210,42 @@ Foundation, I. (2024). International Sustainability Standards Board. https://www
 
 ## [Blog Articles] LLM
 1. [【AWS】什麼是 LLM (大型語言模型)？](https://aws.amazon.com/tw/what-is/large-language-model/)
+2. [SAID, A. (2023). How does ChatGPT generate human-like text? DEV Community.](https://dev.to/said7388/how-does-chatgpt-generate-human-like-text-4h07)
+3. 
 
 
 ## [Blog Articles] Sustainability Reports
 1. [【永訊智庫】SASB 準則中文版上線！掌握最新 SASB 標準與報告規範](https://www.sustaihub.com/blog/sasb-%E6%BA%96%E5%89%87%E4%B8%AD%E6%96%87%E7%89%88%E4%B8%8A%E7%B7%9A%E6%8E%8C%E6%8F%A1%E6%9C%80%E6%96%B0-sasb-%E6%A8%99%E6%BA%96%E8%88%87%E5%A0%B1%E5%91%8A%E8%A6%8F%E7%AF%84/)
 2. 證券櫃檯買賣中心. (2024). 接軌IFRS永續準則揭露專區. Retrieved 04/26 from https://isds.tpex.org.tw/IFRS/front/#/main/home
-3. 財團法人金融聯合徵信中心. (2024). 金融業實體風險資訊平台實體風險資料庫說明會議. 
-4. [財團法人金融聯合徵信中心. (2024). 財團法人金融聯合徵信中心112 年度工作報告.]( https://www.google.com/url?client=internal-element-cse&cx=010192925252739662080:8bojmtikgsc&q=https://www.jcic.org.tw/main_ch/fileRename/fileRename.aspx%3Fuid%3D1585%26fid%3D4816%26kid%3D2&sa=U&ved=2ahUKEwiBqYSkidGGAxUlrlYBHYfWAVoQFnoECAkQAg&usg=AOvVaw03CNTcoUBJP87LNmOAcMBZ&fexp=72519171,72519168)
-5. [金融監督管理委員會. (2024). 聯徵中心「金融業氣候實體風險資訊整合平台」上線，進一步協助金融業管理氣候變遷風險. 金融監督管理委員會.](https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202212280003&dtable=News)
-6. 台灣金融服務業聯合總會. (2024). 金融業淨零推動工作平台－資料與風控工作群112年度成果. https://www.tfsr.org.tw/netZero/8
+3. 金融監督管理委員會. (2023). 推動我國接軌IFRS永續揭露準則藍圖-適用對象及時程. 金融監督管理委員會. Retrieved 2024.05.15 from https://isds.tpex.org.tw/IFRS/front/#/main/IFRS_Compliant/blueprint
+4. 財團法人金融聯合徵信中心. (2024). 金融業實體風險資訊平台實體風險資料庫說明會議. (非公開 PPT)
+5. [財團法人金融聯合徵信中心. (2024). 財團法人金融聯合徵信中心112 年度工作報告.]( https://www.google.com/url?client=internal-element-cse&cx=010192925252739662080:8bojmtikgsc&q=https://www.jcic.org.tw/main_ch/fileRename/fileRename.aspx%3Fuid%3D1585%26fid%3D4816%26kid%3D2&sa=U&ved=2ahUKEwiBqYSkidGGAxUlrlYBHYfWAVoQFnoECAkQAg&usg=AOvVaw03CNTcoUBJP87LNmOAcMBZ&fexp=72519171,72519168)
+6. [金融監督管理委員會. (2024). 聯徵中心「金融業氣候實體風險資訊整合平台」上線，進一步協助金融業管理氣候變遷風險. 金融監督管理委員會.](https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202212280003&dtable=News)
+7. [台灣金融服務業聯合總會. (2024). 金融業淨零推動工作平台－資料與風控工作群112年度成果.](https://www.tfsr.org.tw/netZero/8)
+8. 郭雅婷. (2023). TCFD行不行？揭開2023臺灣企業TCFD評分結果與建議. 國立臺灣大學社會科學院風險社會與政策研究中心. Retrieved 2024.08.10 from https://rsprc.ntu.edu.tw/zh-tw/m01-3/climate-change/1793-0629-tcfdscore.html
+9. 林芳瀅, & 郭雅婷. (2023). 導入氣候相關財務揭露（TCFD）框架在實務上的困難與建議. 國立台灣大學社會科學院風險社會與政策研究中心. Retrieved 2024.08.10 from https://rsprc.ntu.edu.tw/zh-tw/m01-3/climate-change/1788-20230621tcfd-difficult.html
+10. 公司治理中心. (2023). 上市櫃公司永續發展行動方案(2023年). 臺灣證券交易所. Retrieved 04.27 from https://cgc.twse.com.tw/responsibilityPlan/listCh
+11. 金融監督管理委員會. (2022). 綠色金融行動方案3.0. 金融監督管理委員會. https://www.fsc.gov.tw/websitedowndoc?file=chfsc/202209281336330.pdf&filedisplay=%E7%B6%A0%E8%89%B2%E9%87%91%E8%9E%8D%E8%A1%8C%E5%8B%95%E6%96%B9%E6%A1%883.0.pdf
+12. 
+
+
 
 
 
 # Battery Industry related References
+Tzbaike. (2022). 價值鏈與供應鏈：有什麼區別？. https://www.tzbaike.com/t/post/QXtjm2He/value-chain-vs-supply-chain-what-is-the-difference 
+
+Rajaeifar, M. A., Ghadimi, P., Raugei, M., Wu, Y., & Heidrich, O. (2022). Challenges and recent developments in supply and value chains of electric vehicle batteries: A sustainability perspective. Resources, Conservation and Recycling, 180, 106144. https://doi.org/https://doi.org/10.1016/j.resconrec.2021.106144 
+
+陳映璇. (2022). 電池關鍵材料「隔離膜」是什麼？台灣唯一隔離膜廠，明基材為何虧錢10年也要做？. 數位時代. Retrieved 04.02 from https://www.bnext.com.tw/article/71834/benq-materials-separator-film?
+
+Yang, Y., Okonkwo, E. G., Huang, G., Xu, S., Sun, W., & He, Y. (2021). On the sustainability of lithium ion battery industry – A review and perspective. Energy Storage Materials, 36, 186-212. https://doi.org/https://doi.org/10.1016/j.ensm.2020.12.019 
+
+財報狗. (2024). 電池 (能源元件)產業介紹、台股上下游類股和電池公司股價漲跌幅. https://statementdog.com/taiex/23-battery-industry 
+
+梁文耀, 林玉菁, & 李冠賢. (2008). 價值鏈建構與評估模式 [The Model on Building and Evaluation of Value Chain]. 資訊管理學報, 15(3), 181-202. https://doi.org/10.6382/JIM.200807.0181 
+
+Gualandris, J., Longoni, A., Luzzini, D., & Pagell, M. (2021). The association between supply chain structure and transparency: A large-scale empirical study. Journal of Operations Management, 67(7), 803-827. https://doi.org/https://doi.org/10.1002/joom.1150 
+
+Huong Tran, T. T., Childerhouse, P., & Deakins, E. (2016). Supply chain information sharing: challenges and risk mitigation strategies. Journal of Manufacturing Technology Management, 27(8), 1102-1126. https://doi.org/10.1108/JMTM-03-2016-0033 
+
