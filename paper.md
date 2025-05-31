@@ -49,6 +49,7 @@ Li, D., Zhao, Y., Wang, Z., Jung, C., & Zhang, Z. (2024). Large Language Model-D
 Zhang, Y., Wei, C., Wu, S., He, Z., & Yu, W. (2023). Geogpt: Understanding and processing geospatial tasks through an autonomous gpt. arXiv preprint arXiv:2307.07930. 
 
 #Climate change science retrieval system ---
+
 Vaghefi, S. A., Stammbach, D., Muccione, V., Bingler, J., Ni, J., Kraus, M., Allen, S., Colesanti-Senni, C., Wekhof, T., Schimanski, T., Gostlow, G., Yu, T., Wang, Q., Webersinke, N., Huggel, C., & Leippold, M. (2023). ChatClimate: Grounding conversational AI in climate science. Communications Earth & Environment, 4(1), 480. https://doi.org/10.1038/s43247-023-01084-x 
 
 
