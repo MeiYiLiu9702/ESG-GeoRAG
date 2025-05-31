@@ -119,8 +119,7 @@ Kölbel, J. F., Leippold, M., Rillaerts, J., & Wang, Q. (2024). Ask BERT: How Re
 
 Mishra, S. (2023, November). ESG Impact Type Classification: Leveraging Strategic Prompt Engineering and LLM Fine-Tuning. In C.-C. Chen, H.-H. Huang, H. Takamura, H.-H. Chen, H. Sakaji, & K. Izumi, Proceedings of the Sixth Workshop on Financial Technology and Natural Language Processing Bali, Indonesia.
 
-\*\*\*
-<!-- BERT -->
+\*\*\*<!-- BERT -->
 Ferjančič, U., Ichev, R., Lončarski, I., Montariol, S., Pelicon, A., Pollak, S., Sitar Šuštar, K., Toman, A., Valentinčič, A., & Žnidaršič, M. (2024). Textual analysis of corporate sustainability reporting and corporate ESG scores. International Review of Financial Analysis, 96, 103669. https://doi.org/https://doi.org/10.1016/j.irfa.2024.103669 
 
 Bingler, J. A., Kraus, M., Leippold, M., & Webersinke, N. (2022). Cheap talk and cherry-picking: What ClimateBert has to say on corporate climate risk disclosures. Finance Research Letters, 47, 102776. https://doi.org/https://doi.org/10.1016/j.frl.2022.102776 
