@@ -6,7 +6,13 @@ Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ..
 Zhou, Z., Ning, X., Hong, K., Fu, T., Xu, J., Li, S., Lou, Y., Wang, L., Yuan, Z., & Li, X. (2024). A survey on efficient inference for large language models. arXiv preprint arXiv:2404.14294. 
 
 ### NLP
+
+<有文獻，待補>
+
 ### Prompt-Engineering
+
+<有文獻，待補>
+
 ### Fine-tuning
 Barnett, S., Brannelly, Z., Kurniawan, S., & Wong, S. (2024). Fine-tuning or fine-failing? debunking performance myths in large language models. arXiv preprint arXiv:2406.11201. 
 
@@ -16,6 +22,8 @@ Wang, Y., Si, S., Li, D., Lukasik, M., Yu, F., Hsieh, C.-J., Dhillon, I. S., & K
 ### RAG
 Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., ... & Wang, H. (2023). Retrieval-augmented generation for large language models: A survey. arXiv preprint arXiv:2312.10997, 2(1).
 ### Compound AI System / Multi-AI agents
+
+<有文獻，待補>
 
 ## Spatial Analysis
 ### Classic GIS
@@ -88,6 +96,8 @@ Verma, N. (2025). Sustainability reporting in India: leveraging Geographic Infor
 
 ### Create new contents by NLG or LLM approaches
 #### NLP
+<有文獻，待補>
+
 #### Fine-tuning
 Suzuki, M., Sakaji, H., Hirano, M., & Izumi, K. (2023). Constructing and analyzing domain-specific language model for financial text mining. Information Processing & Management, 60(2), 103194. https://doi.org/https://doi.org/10.1016/j.ipm.2022.103194 
 
@@ -149,6 +159,8 @@ Smith, M. J. D., Goodchild, M. F., & Longley, P. a. (2024). Geospatial Analysis 
 de Villiers, C., La Torre, M., & Molinari, M. (2022). The Global Reporting Initiative’s (GRI) past, present and future: critical reflections and a research agenda on sustainability reporting (standard-setting). Pacific Accounting Review, 34(5), 728-747. https://doi.org/10.1108/par-02-2022-0034 
 
 ### SASB
+
+<有文獻，待補>
 
 ### TCFD
 TCFD. (2023). About. Retrieved 05.21 from https://www.fsb-tcfd.org/about/
