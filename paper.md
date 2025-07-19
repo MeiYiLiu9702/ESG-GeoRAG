@@ -41,7 +41,7 @@ Cheng, H., Ma, Z., & Li, P. (2022). A fuzzy spatial description logic for the se
 #### Fine-Tuning
 Mansourian, A., & Oucheikh, R. (2024). ChatGeoAI: Enabling Geospatial Analysis for Public through Natural Language, with Large Language Models. ISPRS International Journal of Geo-Information, 13(10). 
 
-Zhang, Y., Wei, C., He, Z., & Yu, W. (2024). GeoGPT: An assistant for understanding and processing geospatial tasks. International Journal of Applied Earth Observation and Geoinformation, 131, 103976. https://doi.org/https://doi.org/10.1016/j.jag.2024.103976 
+Zhang, Y., Wei, C., He, Z., & Yu, W. (2024). GeoGPT: An assistant for understanding and processing geospatial tasks. International Journal of Applied Earth Observation and Geoinformation, 131, 103976. https://doi.org/https://doi.org/10.1016/j.jag.2024.103976
 
 Zhang, Y., Wang, Z., He, Z., Li, J., Mai, G., Lin, J., Wei, C., & Yu, W. (2024). BB-GeoGPT: A framework for learning a large language model for geographic information science. Information Processing & Management, 61(5), 103808. https://doi.org/https://doi.org/10.1016/j.ipm.2024.103808 
 
@@ -238,7 +238,6 @@ the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, Is
 9. 林芳瀅, & 郭雅婷. (2023). 導入氣候相關財務揭露（TCFD）框架在實務上的困難與建議. 國立台灣大學社會科學院風險社會與政策研究中心. Retrieved 2024.08.10 from https://rsprc.ntu.edu.tw/zh-tw/m01-3/climate-change/1788-20230621tcfd-difficult.html
 10. 公司治理中心. (2023). 上市櫃公司永續發展行動方案(2023年). 臺灣證券交易所. Retrieved 04.27 from https://cgc.twse.com.tw/responsibilityPlan/listCh
 11. 金融監督管理委員會. (2022). 綠色金融行動方案3.0. 金融監督管理委員會. https://www.fsc.gov.tw/websitedowndoc?file=chfsc/202209281336330.pdf&filedisplay=%E7%B6%A0%E8%89%B2%E9%87%91%E8%9E%8D%E8%A1%8C%E5%8B%95%E6%96%B9%E6%A1%883.0.pdf
-12. 
 
 
 
